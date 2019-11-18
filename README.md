@@ -1,2 +1,1 @@
-# mob-project
-demo repo
+This Mob-project was a part of the Technigo BootCamp. 
